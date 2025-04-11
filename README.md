@@ -1,15 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tushar Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hey there! 👋 I'm Tushar (aka cselester)
 
-- 🔭 I’m currently working on **Jenkins**
+Engineering student 🛠️ | AI builder 🤖 | Chaos coordinator 🌪️  
+Currently crafting multi-agent systems, fraud detectors, and chasing the thrill of solving the "unsolvable".
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tushar tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar tripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/cse._.lester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cse._.lester" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## ⚡ What I'm up to:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cselester&show_icons=true&locale=en" alt="cselester" /></p>
+- 🕵️‍♂️ **FraudGuard**  
+  A lightweight, AI-powered fraud detection system.  
+  Flask + scikit-learn + SQLite + Twilio = real-time fraud alerts.
+
+-  **CustoVista**  
+  A multi-agent system for customer insights, segmentation, fraud analytics, and recommendations.  
+  Built with Groq/Ollama LLMs, synthetic data, Gradio UI, and a whole lot of logic.
+
+---
+
+## 🔧 Tech Stack I Mess With:
+
+- Python • JavaScript • SQL  
+- Scikit-learn • HuggingFace • LangChain  
+- Flask • FastAPI • Gradio  
+- SQLite • PostgreSQL • FAISS  
+- Google Colab • Ollama • Groq API
+
+---
+
+## 🌌 Why "cselester"?
+
+Inspired by a character from **GTA V** — not the main guy, but the one with the power to do the *undoable*.  
+That’s the energy I bring to tech too. I may not always be center stage,  
+but I *build things that move mountains*. 🚀  
+"cselester" is my reminder that skill > spotlight.
+
+---
+
+## 🎯 Goals
+
+- Build AI systems that actually help people  
+- Intern at places where curiosity is currency  
+- Keep learning, shipping, and leveling up — always
+
+---
+
+## 📬 Hit me up!
+
+- [LinkedIn](https://www.linkedin.com/in/tushar-tripathi-sde/)  
+- [Email](mailto:tushartripathi2002@gmail.com)  
+- [Portfolio](https://cselester.github.io/portfolio/)
+
+---
+
+> “Not the main character. Just the one who rewrites the plot.” ✨
+
