@@ -11,9 +11,9 @@ Currently crafting multi-agent systems, fraud detectors, and chasing the thrill 
   A lightweight, AI-powered fraud detection system.  
   Flask + scikit-learn + SQLite + Twilio = real-time fraud alerts.
 
--  **CustoVista**  
-  A multi-agent system for customer insights, segmentation, fraud analytics, and recommendations.  
-  Built with Groq/Ollama LLMs, synthetic data, Gradio UI, and a whole lot of logic.
+-  **Cryptoshare**  
+  A tool built to share credentials , API Keys to someone anywhere in world securely without even leaving traces.  
+  Built with Python & React, AES, Diffie - Hellman Algorithm, and on stateless and zero trust architecture.
 
 ---
 
